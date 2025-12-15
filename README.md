@@ -1,4 +1,4 @@
-# 👁️ Proofwise
+# Proofwise
 
 ### Human proof in an AI world.
 
@@ -7,19 +7,19 @@ Proofwise is building tools to help people and organizations **verify what’s r
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 - Building early prototypes for blockchain document certification  
 - Exploring AI human differentiation models  
 - Designing the foundation for the Proofwise API
 
 ---
 
-### 🌐 Learn More
+### Learn More
 - Website: [proofwise.io](https://proofwise.io)
 - X (Twitter): [@Proofwise](https://x.com/Proofwise)
 - LinkedIn: [Proofwise](https://linkedin.com/company/proofwise)
 
 ---
 
-### 🧭 Mission
+### Mission
 To make truth verifiable, trust scalable, and authenticity effortless.
