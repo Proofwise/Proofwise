@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👁️ Proofwise
 
-<!--
-**Proofwise/Proofwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Human proof in an AI world.
 
-Here are some ideas to get you started:
+The rise of AI-generated content has made authenticity harder than ever.  
+Proofwise is building tools to help people and organizations **verify what’s real** through AI detection, blockchain certification, and human verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+- Building early prototypes for blockchain document certification  
+- Exploring AI human differentiation models  
+- Designing the foundation for the Proofwise API
+
+---
+
+### 🌐 Learn More
+- Website: [proofwise.io](https://proofwise.io)
+- X (Twitter): [@Proofwise](https://x.com/Proofwise)
+- LinkedIn: [Proofwise](https://linkedin.com/company/proofwise)
+
+---
+
+### 🧭 Mission
+To make truth verifiable, trust scalable, and authenticity effortless.
